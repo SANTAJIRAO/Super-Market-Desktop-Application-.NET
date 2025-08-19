@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\bin\Debug\GoMartDB.exe.config
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\bin\Debug\GoMartDB.exe
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\bin\Debug\GoMartDB.pdb
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.exe
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.pdb
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.LoginFrom.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.AboutBox1.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.FrmMain.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.frmCategory.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.frmAddNewseller.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.AddAdmin.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.AddProduct.resources
+C:\Users\LENOVO\source\repos\GoMartDB\GoMartDB\obj\Debug\GoMartDB.SellingForm.resources
